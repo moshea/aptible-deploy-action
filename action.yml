@@ -21,7 +21,7 @@ inputs:
     description: 'Private Registry Username'
     required: False
   private_registry_password:
-    description 'Private Registry Password'
+    description: 'Private Registry Password'
     required: False
 outputs:
    status:
